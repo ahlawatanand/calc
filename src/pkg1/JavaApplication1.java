@@ -4,7 +4,7 @@ public class JavaApplication1 {
 
 
 public static void main(String[] args) {
-
+//this program is my first prog
 		         int x;
 		         int y;
 
